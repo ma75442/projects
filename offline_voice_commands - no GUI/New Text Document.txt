@@ -1,0 +1,5 @@
+ choice = sg.PopupGetText('Choose the actual command: 1-abort  2-activate  3-centroid  4-edge  5-launch  6-switch  7-track  8-zoom',
+      default_text='',size=(30,30),background_color=None,button_color=(None,None),no_titlebar=True,keep_on_top=False,location=(500,500))
+    
+    ad.aNd(choice)
+    window.Refresh()
