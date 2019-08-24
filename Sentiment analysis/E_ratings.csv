@@ -1,0 +1,13 @@
+name,department,designation,work,productivity,punctuality,performance,ethics,nwork,npro,npunct,nper,nethics,presult,nresult,review,nreview,preview
+neha singh,HR,Software Engineer,100.0,100.0,50.0,0.0,0.0,0.0,0.0,50.0,100.0,100.0,50.0,-50.0,"bad
+",100.0,0.0
+maroof ahmad,HR,Software Engineer,100.0,100.0,100.0,100.0,0.0,0.0,0.0,0.0,0.0,100.0,80.0,-20.0,"bad person 
+",33.333333333333336,66.66666666666667
+neha,HR,Software Engineer,100.0,100.0,100.0,0.0,0.0,0.0,0.0,0.0,100.0,100.0,60.0,40.0,"good girl
+",0.0,100.0
+apeksha deshmukh,HR,Software Engineer,100.0,100.0,100.0,50.0,0.0,0.0,0.0,0.0,50.0,100.0,70.0,30.0,"poor performance bad punctuality
+",50.0,50.0
+maroof,HR,Software Engineer,100.0,50.0,0.0,100.0,100.0,0.0,50.0,100.0,0.0,0.0,70.0,30.0,"good bad bad	
+",66.66666666666667,33.333333333333336
+neha,HR,Software Engineer,100.0,100.0,100.0,100.0,100.0,0.0,0.0,0.0,0.0,0.0,100.0,0.0,"bad bad
+",100.0,0.0

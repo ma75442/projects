@@ -1,0 +1,12 @@
+company,manage,grow,work,vision,job,flex,mpos,gpos,wpos,vpos,jpos,fpos,mneg,gneg,wneg,vneg,jneg,fneg
+Company_2,yes no,no,no,no,no,yes,50,0,0,0,0,100,50,100,100,100,100,0
+Company_2,yes,yes,yes,no,no,yes,100.0,100.0,100.0,0.0,0.0,100.0,0.0,0.0,0.0,100.0,100.0,0.0
+Company_2,yes,yes,no,no,no,no,100.0,100.0,0.0,0.0,0.0,0.0,0.0,0.0,100.0,100.0,100.0,100.0
+Company_2,yes,no,yes,no,yes,no,100.0,0.0,100.0,0.0,100.0,0.0,0.0,100.0,0.0,100.0,0.0,100.0
+Company_2,yes,yes,no,yes,yes,no,100.0,100.0,0.0,100.0,100.0,0.0,0.0,0.0,100.0,0.0,0.0,100.0
+Company_2,yes no,yes,no no,no yes,yes ,no,50.0,100.0,0.0,50.0,50.0,0.0,50.0,0.0,100.0,50.0,50.0,100.0
+Company_2,yes,yes,no,no,yes,yes,100.0,100.0,0.0,0.0,100.0,100.0,0.0,0.0,100.0,100.0,0.0,0.0
+Company_2,yes,no,no,no,yes,yes,100.0,0.0,0.0,0.0,100.0,100.0,0.0,100.0,100.0,100.0,0.0,0.0
+Company_2,no,no,no,no,yes,no,0.0,0.0,0.0,0.0,100.0,0.0,100.0,100.0,100.0,100.0,0.0,100.0
+Company_2,yes,yes,yes,no,yes,no,100.0,100.0,100.0,0.0,100.0,0.0,0.0,0.0,0.0,100.0,0.0,100.0
+Company_2,no,no,no yes,no yes,no yes,no yes,0.0,0.0,50.0,50.0,50.0,50.0,100.0,100.0,50.0,50.0,50.0,50.0
